@@ -51,7 +51,7 @@ export default function Footer() {
         </div>
 
         <div className="mt-8 pt-6 border-t border-slate-800 text-center text-xs text-slate-500">
-          © {new Date().getFullYear()} Star Collection. All rights reserved.
+          © 2026 Star Collection. All rights reserved.
         </div>
       </div>
     </footer>
